@@ -31,3 +31,12 @@ Tudo isso por meio de uma **interface gráfica interativa**, facilitando o uso s
 
 O projeto contém:
 
+📦 src/
+┣ 📂 main/
+┃ ┣ 📂 java/
+┃ ┃ ┣ 📜 Main.java
+┃ ┃ ┣ 📜 Produto.java
+┃ ┃ ┣ 📜 ProdutoDAO.java
+┃ ┃ ┣ 📜 Conexao.java
+┃ ┃ ┗ 📜 TelaPrincipal.java
+📄 README.md
