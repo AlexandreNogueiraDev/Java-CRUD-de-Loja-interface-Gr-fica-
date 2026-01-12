@@ -13,8 +13,7 @@ O projeto consiste em uma aplicação desktop que permite ao usuário:
 ✔️ Atualizar informações de produtos  
 ✔️ Excluir produtos  
 
-Tudo isso por meio de uma **interface gráfica interativa**, facilitando o uso sem necessidade de console. A interface foi construída com Swing (biblioteca GUI nativa do Java), proporcionando uma experiência visual simples e funcional. :contentReference[oaicite:0]{index=0}
-
+Tudo isso por meio de uma **interface gráfica interativa**, facilitando o uso sem necessidade de console. A interface foi construída com Swing (biblioteca GUI nativa do Java), proporcionando uma experiência visual simples e funcional.
 ---
 
 ## 🧰 Tecnologias Utilizadas
