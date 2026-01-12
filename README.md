@@ -23,4 +23,4 @@ Tudo isso por meio de uma **interface gráfica interativa**, facilitando o uso s
 - **Swing** – interface gráfica
 - **JDBC** – conexão com banco de dados
 - **MySQL** – banco de dados relacional
-- **IDE sugerida:** IntelliJ IDEA / Eclipse / NetBeans
+- **IDE sugerida:** Eclipse
