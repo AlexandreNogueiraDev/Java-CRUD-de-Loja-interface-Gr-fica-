@@ -37,9 +37,9 @@ CREATE TABLE `tbcategoria` (
 --
 
 INSERT INTO `tbcategoria` (`codCategoria`, `nomeCategoria`) VALUES
-(22, 'vegeta'),
-(23, 'cavalo'),
-(27, 'Maconha');
+(22, 'Vegetal'),
+(23, 'Carnes'),
+(27, 'Peixes');
 
 -- --------------------------------------------------------
 
@@ -60,9 +60,9 @@ CREATE TABLE `tbproduto` (
 --
 
 INSERT INTO `tbproduto` (`codProduto`, `nomeProduto`, `valorProduto`, `quantiProduto`, `codCategoria`) VALUES
-(13, 'cavalo', 10, 1, 22),
-(14, 'rggfdkjg', 312, 1, 23),
-(18, 'Maria Juana', 50, 5, 27);
+(13, 'Maça', 2, 50, 22),
+(14, 'Picanha', 75, 32, 23),
+(18, 'Salmão', 50, 20, 27);
 
 --
 -- Índices para tabelas despejadas
